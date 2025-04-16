@@ -1,7 +1,9 @@
 {
   "devDependencies": {
     "grunt": "^1.6.1",
+    "grunt-contrib-jshint": "^3.2.0",
     "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
     "sass": "^1.86.3"
   },
   "name": "3ano_exercicio03_corrigido",
